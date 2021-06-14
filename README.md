@@ -6,7 +6,7 @@
 ## Build Setup
 
 ``` bash
-$ npm install # Or yarn install
+$ npm install
 $ npm run dev
 $ npm run build
 $ npm start
